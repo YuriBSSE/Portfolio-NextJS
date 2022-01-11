@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Restaurant App',
-    description: "I have developed the application on React Native on both the OS systems. Basically the app works like FoodPand app. The flow is the users , sign's in and then can select the category. Once done with that all the restaurants that have that category, it will be displayed. The user will then place the order and it will be added in the cart. Once checking out it had the payment gateway as well. Also the user can track it's order through live tracking implementation in the map.",
+    description: " have developed the application on React Native on both OS systems. The app works like the FoodPand app. The flow is the users, sign's in, and then can select the category. Once done with that all the restaurants that have that category, it will be displayed. The user will then place the order and it will be added to the cart. Once checking out it had the payment gateway as well. Also, the user can track its order through live tracking implementation in the map.",
     image: '/images/RESTURANT-MOCKUP.jpg',
     tags: ['React Native', 'Java', 'Firebase', 'Rest API'],
     source: 'https://github.com/Coders-Of-XDA-OT/covid19-status-android',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Food Delivery App',
-    description: "In this app, the key implementation were, Push Notification through FCM, google map api integration. Part of Restaurant App. Can be used in various apps like any travelling booking app. ",
+    description: "In this app, the key implementation was, Push Notification through FCM, Google Maps API integration. Part of Restaurant App. Can be used in various apps like any traveling booking app.",
     image: '/images/FOOD-MOCKUP.jpg',
     tags: ['Javascript', 'React Native', 'Bootstrap', 'ES6'],
     source: 'https://github.com/lordarcadius/website',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Bata App',
-    description: "This appilctaion is based on providing the service similarly, like UBER, and various app, the diffrence was it provides us the translators, for different languages. a user can book any translator on hourly bases, based on the translators personal profile and reviews ",
+    description: "This application is based on providing the service similarly, like UBER, and various apps, the difference was it provides us the translators, for different languages. a user can book any translator on hourly basis, based on the translator's profile and reviews.",
     image: '/images/BATA.jpg',
     tags: ['Live Tracking', 'React Native', "Node", "Express"],
     source: 'https://github.com/lordarcadius/ABS-Tweaks',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Run Mator App',
-    description: "This app was developed with the aim of having services of Mechanic for a user. If the user is stucked at somewhere in between, the user just opens this up and can declare it's issue and can book any mechanic for the respective service ",
+    description: "This app was developed to have services of Mechanic for a user. If the user is stucked at somewhere in between, the user just opens this up and can declare it's issue and can book any mechanic for the respective service.",
     image: '/images/RUN-MATOR.jpg',
     tags: ['Firebase', 'React Native', 'Java', 'XML'],
     source: 'https://github.com/lordarcadius/electrablue_mido',
@@ -48,7 +48,7 @@ export const projects = [
     title: 'Ticket Booking App',
     description: "This app was developed for booking the tickets of AirLine. Internationally as well as for local travel. This app considered all the airlines data, implemented paymenyt gateway as well ",
     image: '/images/BOOKING-MOCKUP.jpg',
-    tags: ['React Native', 'Native-Base', 'Java'],
+    tags: ['React Native', 'Firebase', 'FCM'],
     source: '#',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
     id: 3,

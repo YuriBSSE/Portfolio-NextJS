@@ -11,7 +11,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:ahsanmuneer81@gmail.com">
-            ahsanmuneer81@gmail.com
+          ahsanmuneer81@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -19,14 +19,14 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>&copy; 2021 <Link href="#">  Ahsan Muneer</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
-        <SocialContainer>
+        {/* <SocialContainer>
           <SocialIcons href="https://github.com/YuriBSSE">
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.linkedin.com/in/muhammad-ahsan-muneer-36980738/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-        </SocialContainer>
+        </SocialContainer> */}
       </SocialIconsContainer>
 
     </FooterWrapper>
