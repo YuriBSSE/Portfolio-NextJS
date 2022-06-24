@@ -17,7 +17,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="#">  Ahsan Muneer</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2022 <Link href="#">  Ahsan Muneer</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         {/* <SocialContainer>
           <SocialIcons href="https://github.com/YuriBSSE">

@@ -8,11 +8,14 @@ const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
+      <SectionTitle center>
+          Sr. React & React Native Developer
+        </SectionTitle>
         <SectionTitle main center>
           Hey there,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   
+          This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();

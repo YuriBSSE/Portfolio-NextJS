@@ -1,5 +1,5 @@
 import { DiAndroid, DiReact, DiTerminal } from "react-icons/di";
-import { SiJava, SiFirebase, SiGit, SiJavascript, SiMapbox, SiNextDotJs } from "react-icons/si";
+import { SiJava, SiFirebase, SiGit, SiJavascript, SiMapbox, SiNextDotJs,SiNodeDotJs } from "react-icons/si";
 import { RiFlutterFill, RiReactjsFill } from "react-icons/ri";
 
 export const Skills = [
@@ -20,6 +20,12 @@ export const Skills = [
     Component: SiNextDotJs,
     title: "Next",
     Description: () => <>Also code in next js for blogging websites </>,
+  },
+  {
+    slug: "node",
+    Component: SiNodeDotJs,
+    title: "Node Js",
+    Description: () => <>Hands on node.js for crud apis, multer, forms and mails through smtp </>,
   },
   {
     slug: "javascript",

@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Ahsan Muneer - React Native & React Dev</title>
+        <title>Ahsan Muneer - Sr. React Native & React Dev</title>
       </Head>
       <Theme>
         <Component {...pageProps} />
